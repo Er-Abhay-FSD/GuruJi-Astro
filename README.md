@@ -29,7 +29,7 @@ These instructions will get your project up and running on your local machine fo
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Er-Abhay-FSD/GuruJi-Astro>
 
 
 ## Learn More
